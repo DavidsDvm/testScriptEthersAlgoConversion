@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "tsx index.ts",
+    "test": "tsx test.ts"
+  },
+  "dependencies": {
+    "@types/node": "^22.2.0",
+    "algosdk": "^2.8.0",
+    "ethers": "^6.13.2",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.17.0",
+    "typescript": "^5.5.4"
+  }
+}
